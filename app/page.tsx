@@ -48,7 +48,7 @@ export default function Home() {
     } else if (!showContributors) {
       const timer = setTimeout(() => {
         setShowContributors(true);
-      }, 5000);
+      }, 6000);
       return () => clearTimeout(timer);
     } else if (!showFinale) {
       const timer = setTimeout(() => {
