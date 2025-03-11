@@ -20,7 +20,7 @@ const messages = [
 ];
 
 const contributors = [
-  "Gessica", "Vanessa", "Natália", "Rosângela", "Rosanaide", "Icara",
+  "jessica", "Vanessa", "Natália", "Rosângela", "Rosanaide", "Icara",
   "Maria", "Recia", "Eliane", "Gilda", "Guto", "Elenice", "Suilan",
   "José", "Janusa", "Mirlane", "Camille"
 ];
